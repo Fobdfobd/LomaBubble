@@ -917,7 +917,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     context.fillStyle = "#ffffff";
     context.font = "24px Verdana";
-    drawCenterText("Julia & Friends Bubble Shooter", 0, 30, canvas.width);
+    drawCenterText("LOMA Bubble Shooter", 0, 30, canvas.width);
 }
 
 
